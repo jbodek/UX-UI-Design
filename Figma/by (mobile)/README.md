@@ -1,1 +1,1 @@
-"by" to sklepowa aplikacja mobilna. / "by" is a mobile shop application.
+"by" to sklepowa aplikacja mobilna. / "by" is a store-based mobile application.
